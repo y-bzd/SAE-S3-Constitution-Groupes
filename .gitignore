@@ -1,0 +1,13 @@
+# Java
+bin/
+*.class
+
+# IDE Eclipse / VS Code
+.settings/
+.project
+.classpath
+.metadata/
+
+# Système
+.DS_Store
+Thumbs.db
